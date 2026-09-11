@@ -1,0 +1,15 @@
+{
+  "name": "moz-privacy-commit",
+  "owner": {
+    "name": "Tim Huang",
+    "email": "tihuang@mozilla.com"
+  },
+  "plugins": [
+    {
+      "name": "moz-privacy-commit",
+      "source": "./",
+      "description": "Writes Mozilla/gecko commit messages in the Bug/Part/r= convention",
+      "version": "1.0.0"
+    }
+  ]
+}

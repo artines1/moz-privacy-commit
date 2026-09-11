@@ -1,0 +1,10 @@
+# local dev only — not part of the published skill
+.venv/
+dist/
+moz-privacy-commit-workspace/
+__pycache__/
+*.pyc
+.DS_Store
+
+# dev-only test harness, not published
+evals/

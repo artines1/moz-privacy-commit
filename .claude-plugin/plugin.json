@@ -1,0 +1,11 @@
+{
+  "name": "moz-privacy-commit",
+  "version": "1.0.0",
+  "description": "Writes Mozilla/gecko commit messages in the Bug/Part/r= convention, inferring the bug number, part number and reviewers from the repo, then committing once you approve.",
+  "author": {
+    "name": "Tim Huang",
+    "email": "tihuang@mozilla.com"
+  },
+  "license": "MPL-2.0",
+  "keywords": ["mozilla", "gecko", "firefox", "commit-message", "phabricator", "moz-phab"]
+}
